@@ -1,0 +1,13 @@
+.about {
+  text-align: center;
+  padding: 50px;
+}
+
+.profile-image {
+  width: 150px; /* Adjust size as needed */
+  height: 150px;
+  border-radius: 50%; /* Makes the image circular */
+  object-fit: cover;
+  margin: 20px 0;
+  border: 3px solid #4a90e2; /* Optional: Adds a border */
+}
